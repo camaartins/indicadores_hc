@@ -1,0 +1,21 @@
+{
+	"name": "indicadores_final",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "indicadores_finais",
+			"type": "LinkedServiceReference"
+		},
+		"folder": {
+			"name": "IndicadoresDB"
+		},
+		"annotations": [],
+		"type": "Excel",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"container": "indicadores-finais"
+			}
+		},
+		"schema": []
+	}
+}
