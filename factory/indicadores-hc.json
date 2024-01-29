@@ -1,0 +1,9 @@
+{
+	"name": "indicadores-hc",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c92dfde0-11c1-446c-8dd2-9d07a43dcaee",
+		"tenantId": "cd5e6d23-cb99-4189-88ab-1a9021a0c451"
+	}
+}
