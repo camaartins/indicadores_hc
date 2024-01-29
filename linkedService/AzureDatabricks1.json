@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "AzureDatabricks",
 		"typeProperties": {
-			"domain": "https://adb-5182542509256274.14.azuredatabricks.net/?o=5182542509256274#notebook/1102623609176267",
+			"domain": "https://adb-5182542509256274.14.azuredatabricks.net",
 			"authentication": "MSI",
 			"workspaceResourceId": "/subscriptions/c4bd1343-f630-4c73-b34b-35879645159f/resourceGroups/metricas_hc/providers/Microsoft.Databricks/workspaces/criando_metricas",
 			"existingClusterId": "0129-131728-axppmj13"
